@@ -4,4 +4,4 @@ const append = ["Milo", "Otis", "Garfield"];
       removeLast = ["Milo", "Otis", "Garfield"];
       removeFirst= ["Milo", "Otis", "Garfield"];
 
-      append.shift("Odie");
+      append.push("Odie");
