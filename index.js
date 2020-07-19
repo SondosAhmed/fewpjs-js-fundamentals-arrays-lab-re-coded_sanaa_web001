@@ -6,3 +6,6 @@ const append = ["Milo", "Otis", "Garfield"];
 
       append.push("Odie");
       prepend.unshift("Odie");
+      removeLast.pop();
+      removeLast;
+      removeFirst.shift();
