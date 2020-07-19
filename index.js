@@ -4,4 +4,4 @@ let append = ["Milo", "Otis", "Garfield"];
       removeLast = ["Milo", "Otis", "Garfield"];
       removeFirst= ["Milo", "Otis", "Garfield"];
 
-      append[append.length-1]= "Odie";
+      append[append.length]= "Odie";
